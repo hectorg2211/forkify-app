@@ -5,6 +5,6 @@ The project is built using the MVC Architecture, Webpack for bundling and
 Babel to convert new JS code into compatible version for older browsers.
 Recipes can be uploaded, bookmarked, and searched using an API.
 
-Live site: 
+Live site: https://forkify-hector.netlify.app/
 
 
